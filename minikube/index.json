@@ -1,6 +1,6 @@
 {
-  "title": "New Scenario Template",
-  "description": "A simple scenario example.",
+  "title": "Minikube Test",
+  "description": "A K8s example.",
   "difficulty": "Beginner",
   "time": "3 minutes",
   "details": {
@@ -10,8 +10,7 @@
         "text": "step1.md"
       },
     "intro": {
-      "text": "intro.md",
-      "code": "foreground.sh"
+      "text": "intro.md"
     },
     "finish": {
       "text": "finish.md"
