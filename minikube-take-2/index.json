@@ -1,6 +1,6 @@
 {
   "title": "Kubernetes",
-  "description": "testing",
+  "description": "with MiniKube",
   "difficulty": "Beginner",
   "time": "60 minutes",
   "details": {
@@ -20,6 +20,6 @@
   "environment": {"uilayout": "terminal"},
   "backend": {
     "port": 8080,
-    "imageid": "kubernetes-cluster-running"
+    "imageid": "minikube-running"
   }
 }
