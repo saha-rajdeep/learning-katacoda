@@ -4,12 +4,11 @@
   "difficulty": "Beginner",
   "time": "3 minutes",
   "details": {
-    "steps": [
+    "steps": 
       {
         "title": "Step 1",
         "text": "step1.md"
-      }
-    ],
+      },
     "intro": {
       "text": "intro.md",
       "code": "foreground.sh"
